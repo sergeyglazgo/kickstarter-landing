@@ -1,1 +1,3 @@
 - [DEMO LINK](https://sergeyglazgo.github.io/kickstarter-landing/)
+- [MOCKUP](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=0%3A1/)
+- used technologies: HTML5, CSS3, Sass (SCSS), BEM, JavaScript
